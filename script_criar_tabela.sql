@@ -1,0 +1,1 @@
+SELECT * FROM db_perfect_burguer.tbl_clientes;

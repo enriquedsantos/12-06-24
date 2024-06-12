@@ -1,0 +1,1 @@
+UPDATE `db_perfect_burguer`.`tbl_clientes` SET `profissao` = 'aux de ti' WHERE (`id` = '2');

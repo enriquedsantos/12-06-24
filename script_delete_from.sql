@@ -1,0 +1,1 @@
+DELETE FROM `db_perfect_burguer`.`tbl_clientes` WHERE (`id` = '3')
